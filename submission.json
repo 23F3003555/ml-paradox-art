@@ -1,0 +1,6 @@
+{
+  "prompt": "A surreal conceptual scene showing two flowing streams of colored particles (red and blue) moving through multiple translucent chambers. Inside each small chamber, red particles visibly outnumber blue particles, creating a clear local dominance. However, when viewed as a whole across all chambers, blue particles dominate the entire composition. The chambers are arranged in a layered, depth-filled structure, like glass containers suspended in space. The perspective subtly reveals both local and global views at once. No text, no numbers, no charts, no symbols. Style: abstract, cinematic lighting, soft glow, volumetric depth, high detail, 3D surrealism, impossible logic, dreamlike atmosphere. Negative prompt: text, numbers, labels, graphs, charts, equations, UI elements, captions --ar 1:1 --quality 2 --stylize 250",
+  "model": "Midjourney v6.1",
+  "paradox": "Simpson's Paradox",
+  "visual_logic": "Each chamber shows one color dominating locally, but the full scene reverses dominance globally, creating a simultaneous contradiction between local and overall structure."
+}
